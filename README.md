@@ -1,4 +1,59 @@
-## Hi there 👋
+# Hi there 👋
+## I'm Joseph Charana
+
+A 19 y/o Software Dev from Kenya 🇰🇪  
+Learning, building & vibin’ with code every  day   
+Currently at Moringa School learning fullstack software development.
+JavaScript, Tailwind, React, Python – you name it 
+
+---
+## My works
+### 1. portfolio
+
+I have created a portfolio with the technologies i've learned so far (HTML,Tailwind and Javascript).
+
+View it deployed here : [portfolio](https://creeksonjoseph.github.io/Portfolio/).
+
+### 2. AniHaven
+AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations.
+
+View it deployed here : [AniHaven](https://creeksonjoseph.github.io/Anifinder/).
+
+## 🚀 Current Goals
+- 🎯 Master React + Build great UIs
+- 💼 learn backend technologies
+- 🏦 Learn Fintech & Bank-level systems
+  
+
+---
+
+## Tech Stack & Tools
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,git,linux)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creeksonjoseph&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=creeksonjoseph&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeksonjoseph&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-charana-038328353/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/creekson.joseph/)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanajoseph@gmail.com)
+
+---
+
+
+
+
 
 <!--
 **creeksonJoseph/creeksonjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
