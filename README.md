@@ -10,7 +10,7 @@ JavaScript, Tailwind, React, Python – you name it
 ## My works
 ### 1. portfolio
 
-I have created a portfolio with the technologies i've learned so far (HTML,Tailwind and Javascript).
+I have created a portfolio with the technologies I've learned so far (HTML,Tailwind and Javascript).
 
 View it deployed here : [portfolio](https://creeksonjoseph.github.io/Portfolio/).
 
