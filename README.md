@@ -17,7 +17,7 @@ View it deployed here : [portfolio](https://creeksonjoseph.github.io/Portfolio/)
 ### 2. AniHaven
 AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations.
 
-View it deployed here : [AniHaven](https://creeksonjoseph.github.io/Anifinder/).
+View it deployed here : [AniHaven](https://creeksonjoseph.github.io/AniHaven/).
 
 ## 🚀 Current Goals
 - 🎯 Master React + Build great UIs
