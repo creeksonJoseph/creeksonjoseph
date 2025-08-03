@@ -2,7 +2,7 @@
 ## I'm Joseph Charana
 
 A 19 y/o Software Dev from Kenya 🇰🇪  
-Learning, building & vibin’ with code every  day   
+Learning and building  with code every  day   
 Currently at Moringa School learning fullstack software development.
 JavaScript, Tailwind, React, Python – you name it 
 
@@ -10,7 +10,7 @@ JavaScript, Tailwind, React, Python – you name it
 ## My works
 ### 1. portfolio
 
-I have created a portfolio with the technologies I've learned so far (HTML,Tailwind and Javascript).
+I have created a portfolio website with the technologies I've learned so far (html, JavaScript, tailwind css and react).
 
 View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
