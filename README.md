@@ -12,7 +12,7 @@ JavaScript, Tailwind, React, Python – you name it
 
 I have created a portfolio with the technologies I've learned so far (HTML,Tailwind and Javascript).
 
-View it deployed here : [portfolio](https://creeksonjoseph.github.io/Portfolio/).
+View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
 ### 2. AniHaven
 AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations.
