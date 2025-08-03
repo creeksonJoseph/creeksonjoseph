@@ -4,7 +4,7 @@
 A 19 y/o Software Dev from Kenya 🇰🇪  
 Learning and building  with code every  day   
 Currently at Moringa School learning fullstack software development.
-JavaScript, Tailwind, React, Python – you name it 
+JavaScript, Tailwind, React, Python 
 
 ---
 ## My works
