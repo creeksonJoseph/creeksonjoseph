@@ -14,10 +14,20 @@ I have created a portfolio website with the technologies I've learned so far (ht
 
 View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
-### 2. AniHaven
+### 2. Deadtime
+Deadtime is a digital graveyard where developers can bury their abandoned projects with dignity, revive forgotten ideas and give them new life, discover hidden gems from other developers, and build a community around project resurrection. Think of it as GitHub meets archaeology - where every abandoned repository has a chance at redemption
+
+View it deployed here : [Deadtime](https://deadtime2.vercel.app/).
+GITHUB[Deadtime](https://github.com/creeksonJoseph/Deadtime/)
+
+### 3. AniHaven
 AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations.
 
 View it deployed here : [AniHaven](https://creeksonjoseph.github.io/AniHaven/).
+GITHUB: [AniHaven](https://github.com/creeksonJoseph/AniHaven)
+
+
+
 
 ## 🚀 Current Goals
 - 🎯 Master React + Build great UIs
