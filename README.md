@@ -30,8 +30,8 @@ AniHaven is a dynamic content discovery platform that mimics the search and reco
 
 
 ## 🚀 Current Goals
-- 🎯 Master React + Build great UIs
-- 💼 learn backend technologies
+- 🎯 Learn backend technologies
+- 💼 Master blockchain and dive dipper into web 3
 - 🏦 Learn Fintech & Bank-level systems
   
 
