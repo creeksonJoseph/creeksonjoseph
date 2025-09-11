@@ -3,8 +3,8 @@
 
 A  Software Dev from Kenya 🇰🇪  
 Learning and building  with code every  day   
-Currently at Moringa School learning fullstack software development.
-JavaScript, Tailwind, React, Python,flask,django. 
+Currently at Moringa School learning fullstack software development.   
+JavaScript, Tailwind, React, Python,flask,django.   
 I'm also learning web 3 technologies currently.
 
 
