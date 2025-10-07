@@ -25,7 +25,7 @@ Deadtime is a digital graveyard where developers can bury their abandoned projec
 ### 3. FitFam
 FitFam is a social fitness platform where friends can track their workouts, share progress, compete in challenges, and stay accountable together. It’s a space built to make fitness fun, consistent, and community-driven - where motivation comes from your circle, not just your screen. 
 
-- View it deployed here : [FitFam](hhttps://fit-fam-eight.vercel.app/). 
+- View it deployed here : [FitFam](https://fit-fam-eight.vercel.app/). 
 - GITHUB: [FitFam](https://github.com/ogzacky75/Group_fitness_app) 
 
 ### 4. AniHaven
