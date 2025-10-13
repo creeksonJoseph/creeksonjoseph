@@ -46,7 +46,7 @@ AniHaven is a dynamic content discovery platform that mimics the search and reco
 ---
 
 ## Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,git,linux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,flask,sql,git,linux,postman,figma,postgres)
 
 ---
 
