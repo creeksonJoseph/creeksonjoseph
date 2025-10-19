@@ -1,11 +1,21 @@
-# Hi there 👋
-## I'm Joseph Charana
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=+Hi%2C+I'm+Joseph+Charana" 
+    alt="Typing SVG" 
+  />
+</h1>
 
-A  Software Dev from Kenya 🇰🇪  
+<p align="center">
+  <b>Full-Stack developer || Blockchain developer</b>
+</p>
+
+---
+
+
+A  Software and smart contract developer from Kenya 🇰🇪  
 Learning and building  with code every  day   
-Currently at Moringa School learning fullstack software development.   
-JavaScript, Tailwind, React, Python,flask,django.   
-I'm also learning web 3 technologies.
+JavaScript, Tailwind, React, Python,flask,django.       
+Currently  learning web 3 technologies. 
 
 
 ---
@@ -70,7 +80,9 @@ AniHaven is a dynamic content discovery platform that mimics the search and reco
 ---
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer"/>
+</p>
 
 
 <!--
