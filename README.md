@@ -6,15 +6,15 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack developer || Blockchain developer</b>
+  <b>Full-Stack developer</b>
 </p>
 
 ---
 
 
-A  Software and smart contract developer from Kenya 🇰🇪  
+A  Software developer from Kenya 🇰🇪  
 Learning and building  with code every  day   
-JavaScript, Tailwind, React, Python,flask,django.       
+JavaScript with React, Python with flask and Tailwind css.       
 Currently  learning web 3 technologies. 
 
 
@@ -22,7 +22,8 @@ Currently  learning web 3 technologies.
 ## My works
 ### 1. portfolio
 
-I have created a portfolio website with the technologies I've learned so far (html, JavaScript, tailwind css and react).
+A personal portfolio showcasing my skills in software development.      
+It has a command-line mode and a graphical user interface mode to appeal to both techies and non-techies
 
 View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
