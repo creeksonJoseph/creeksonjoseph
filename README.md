@@ -27,19 +27,19 @@ It has a command-line mode and a graphical user interface mode to appeal to both
 
 View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
-### 2. Deadtime
+<!-- ### 2. Deadtime
 Deadtime is a digital graveyard where developers can bury their abandoned projects with dignity, revive forgotten ideas and give them new life, discover hidden gems from other developers, and build a community around project resurrection. Think of it as GitHub meets archaeology - where every abandoned repository has a chance at redemption 
 
 - View it deployed here : [Deadtime](https://deadtime2.vercel.app/). 
-- GITHUB[Deadtime](https://github.com/creeksonJoseph/Deadtime/)
+- GITHUB[Deadtime](https://github.com/creeksonJoseph/Deadtime/)-->
 
-### 3. FitFam
+### 2. FitFam
 FitFam is a social fitness platform where friends can track their workouts, share progress, compete in challenges, and stay accountable together. It’s a space built to make fitness fun, consistent, and community-driven - where motivation comes from your circle, not just your screen. 
 
 - View it deployed here : [FitFam](https://fit-fam-eight.vercel.app/). 
 - GITHUB: [FitFam](https://github.com/ogzacky75/Group_fitness_app) 
 
-### 4. AniHaven
+### 3. AniHaven
 AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations. 
 
 - View it deployed here : [AniHaven](https://creeksonjoseph.github.io/AniHaven/). 
