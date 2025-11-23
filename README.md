@@ -27,29 +27,45 @@ It has a command-line mode and a graphical user interface mode to appeal to both
 
 View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
-<!-- ### 2. Deadtime
-Deadtime is a digital graveyard where developers can bury their abandoned projects with dignity, revive forgotten ideas and give them new life, discover hidden gems from other developers, and build a community around project resurrection. Think of it as GitHub meets archaeology - where every abandoned repository has a chance at redemption 
 
-- View it deployed here : [Deadtime](https://deadtime2.vercel.app/). 
-- GITHUB[Deadtime](https://github.com/creeksonJoseph/Deadtime/)-->
 
 ### 2. FitFam
 FitFam is a social fitness platform where friends can track their workouts, share progress, compete in challenges, and stay accountable together. It’s a space built to make fitness fun, consistent, and community-driven - where motivation comes from your circle, not just your screen. 
 
-- View it deployed here : [FitFam](https://fit-fam-eight.vercel.app/). 
-- GITHUB: [FitFam](https://github.com/ogzacky75/Group_fitness_app) 
+- View it deployed here : [FitFam](https://fit-fam-1.vercel.app/). 
+- GITHUB: [FitFam](https://github.com/creeksonJoseph/Fit-Fam)
 
-### 3. AniHaven
+### 3. soko-Digi
+Soko Digi is a community-driven e-commerce platform that connects Kenyan local artisans directly to buyers. Users can browse handcrafted products, view item details, and shop from verified creators with no middlemen. Built to promote culture and fair trade, Soko Digi empowers artisans with a simple product management flow and gives shoppers access to authentic, locally made goods.
+
+- View it deployed here : [Soko-Digi](https://soko-safi.vercel.app/). 
+- GITHUB: [Soko-Digi](https://github.com/MissMokandu/soko-safi)
+
+### 4. Deadtime v2
+Deadtime is a blockchain-powered archive of unfinished code, built on Scroll for permanence and transparency. It transforms abandoned repositories into opportunities: developers can showcase past experiments, inspire new collaborations, and spark innovation from forgotten work. Think of it as a living museum of code where every project becomes part of collective history and a launchpad for future builders.
+
+- View it deployed here : [Deadtime v2](https://deadtime-scroll.vercel.app/). 
+- GITHUB: [Deadtime v2](https://github.com/creeksonJoseph/Deadtime-scroll) 
+  
+### 5. AniHaven
 AniHaven is a dynamic content discovery platform that mimics the search and recommendation systems used by modern streaming services. It allows users to search anime titles, watch previews, view metadata, and discover recommendations based on trending content. Built this with JavaScript and powered by JIKAN API, a public API for anime.Main goal was to learn DOM manipulation and master the Full REST API CRUD operations. 
 
 - View it deployed here : [AniHaven](https://creeksonjoseph.github.io/AniHaven/). 
-- GITHUB: [AniHaven](https://github.com/creeksonJoseph/AniHaven) 
+- GITHUB: [AniHaven](https://github.com/creeksonJoseph/AniHaven)
+  
+### 6. Deadtime v1
+Deadtime is a digital graveyard where developers can bury their abandoned projects with dignity, revive forgotten ideas and give them new life, discover hidden gems from other developers, and build a community around project resurrection. Think of it as GitHub meets archaeology - where every abandoned repository has a chance at redemption 
+
+- View it deployed here : [Deadtime](https://deadtime2.vercel.app/). 
+- GITHUB[Deadtime](https://github.com/creeksonJoseph/Deadtime/)
+
+
 
 
 
 
 ## 🚀 Current Goals
-- 🎯 Learn backend technologies
+
 - 💼 Master blockchain and dive dipper into web 3
 - 🏦 Learn Fintech & Bank-level systems
   
