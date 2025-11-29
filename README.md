@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack developer</b>
+  <b>Full-Stack developer || Smart contract developer</b>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 A  Software developer from Kenya 🇰🇪  
 Learning and building  with code every  day   
 JavaScript with React, Python with flask and Tailwind css.       
-Currently  learning web 3 technologies. 
+Solidity for web3, working with evm compatible blockchains. 
 
 
 ---
@@ -42,7 +42,7 @@ Soko Digi is a community-driven e-commerce platform that connects Kenyan local a
 - GITHUB: [Soko-Digi](https://github.com/MissMokandu/soko-safi)
 
 ### 4. Deadtime v2
-Deadtime is a blockchain-powered archive of unfinished code, built on Scroll for permanence and transparency. It transforms abandoned repositories into opportunities: developers can showcase past experiments, inspire new collaborations, and spark innovation from forgotten work. Think of it as a living museum of code where every project becomes part of collective history and a launchpad for future builders.
+Deadtime is a blockchain-powered archive of unfinished code, built on Scroll for permanence and transparency. It transforms abandoned repositories into opportunities: developers can showcase past experiments, inspire new collaborations, and spark innovation from forgotten work. Think of it as a living museum of code where every project becomes part of collective history and a launchpad for future builders.Users earn nft badges and may recieve tokens as appreciation from other users for their contribution to reviving projects hence encouraging communal development.
 
 - View it deployed here : [Deadtime v2](https://deadtime-scroll.vercel.app/). 
 - GITHUB: [Deadtime v2](https://github.com/creeksonJoseph/Deadtime-scroll) 
