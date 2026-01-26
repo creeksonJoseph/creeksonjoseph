@@ -67,14 +67,15 @@ Deadtime is a digital graveyard where developers can bury their abandoned projec
 
 ## 🚀 Current Goals
 
-- 💼 Master blockchain and dive dipper into web 3
-- 🏦 Learn Fintech & Bank-level systems
+- Master blockchain and dive dipper into web 3
+- Learn Cloud Computing & Production-Scale Systems
   
 
 ---
 
 ## Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,flask,sql,git,linux,postman,figma,postgres)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,python,flask,django,sql,git,linux,postman,figma,postgres)
+
 
 ---
 
