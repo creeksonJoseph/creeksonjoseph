@@ -15,7 +15,7 @@
 A  Software developer from Kenya 🇰🇪  
 Learning and building  with code every  day   
 JavaScript with React, Python with flask and Tailwind css.       
-Solidity for web3, working with evm compatible blockchains. 
+Solidity for web3, working with evm compatible blockchains.  
 Currently learning cloud computing to architect scalable systems and deploy apps that actually hold up in the real world.   
 
 
