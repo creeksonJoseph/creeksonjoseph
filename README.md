@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack developer || Smart contract developer</b>
+  <b>Full-Stack developer</b>
 </p>
 
 ---
@@ -14,8 +14,7 @@
 
 A  Software developer from Kenya 🇰🇪  
 Learning and building  with code every  day   
-JavaScript with React, Python with flask and Tailwind css.       
-Solidity for web3, working with evm compatible blockchains.  
+JavaScript with React, Python with flask and Tailwind css.         
 Currently learning cloud computing to architect scalable systems and deploy apps that actually hold up in the real world.   
 
 
