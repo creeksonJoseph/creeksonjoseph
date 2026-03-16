@@ -30,7 +30,7 @@ View it deployed here : [portfolio](https://portfolio-pi-seven-48.vercel.app/).
 
 
 ### 2. OkoaRoute
-OkoaRoute is an offline-first, decentralized medical dispatch engine built entirely for the basic feature phone (kabambe). You dial a code (e.g. *384*99#), and it automatically finds the nearest safe boda rider to come get you, while making sure they don't get stuck on a flooded road along the way.
+OkoaRoute is an offline-first, decentralized medical dispatch engine built entirely for the basic feature phone (kabambe). You dial a code (e.g. `*384*99#`), and it automatically finds the nearest safe boda rider to come get you, while making sure they don't get stuck on a flooded road along the way.
 
 - GITHUB: [OkoaRoute](https://github.com/creeksonJoseph/humanitarian-hackathon)
 
